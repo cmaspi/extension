@@ -9,8 +9,12 @@ This extension will help you bypass the first captcha on the aims website, the n
 Go to your browser, switch on the developer mode in extensions, then add extension by selecting captchaDefeator
 
 You can refer 
-1. [Tutorial for brave]()
-2. [Tutorial for firefox]()
+### 1. [Tutorial for brave](https://github.com/cmaspi/extension/blob/main/captchaDefeator/tutorials/brave_tutorial.pdf)
+### 2. Tutorial for firefox
+    1. Go to about:debugging#/runtime/this-firefox
+    2. Then click on Load Temporary Add-on
+    3. Then select manifest.json in the downloaded directory
+
 
 ### How this extension works?
 The first login page has a really bad captcha, the src link of the captcha which can be found in the html of the page has the captcha text itself. The extension just exploits this fact. Additionally, this would contribute in the second part of this extension that is to train a model which can solve captcha on second page since that isn't labelled. You can check the [captcha dataset](https://github.com/cmaspi/extension/tree/main/dos/images) I built by running my [python script](https://github.com/cmaspi/extension/blob/main/dos/getImage.py) that downloads labelled captcha images from aims.
