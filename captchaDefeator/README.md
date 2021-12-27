@@ -2,6 +2,10 @@
 
 This extension will help you bypass the first captcha on the aims website, the next big version of this extension will include a text detection model to bypass the second captcha as well, but for now, it will only fill the first captcha for you.
 (Star this repository if you like it)
+### How to install (for windows)
+
+Download the files from this [site](https://downgit.github.io/#/home?url=https://github.com/cmaspi/extension/tree/main/captchaDefeator). Extract  the zip file.
+Now follow the tutorial for how to add this to you browser
 ### How to install (for debian)
 > sudo apt-get install subversion     
 > svn checkout https://github.com/cmaspi/extension/trunk/captchaDefeator  
