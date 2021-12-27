@@ -4,7 +4,7 @@
     "manifest_version":2,
     "content_scripts": [
         {
-        "matches": ["https://aims.iith.ac.in/aims/","https://aims.iith.ac.in/aims/login/loginHome"],
+        "matches": ["https://aims.iith.ac.in/aims/"],
         "js":["captcha1.js"]    
         }
     ]
