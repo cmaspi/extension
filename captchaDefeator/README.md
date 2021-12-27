@@ -4,7 +4,7 @@ This extension will help you bypass the first captcha on the aims website, the n
 
 ### How to install (for debian)
 > sudo apt-get install subversion     
-> svn checkout https://github.com/cmaspi/extension/trunk/captchaDeafeator  
+> svn checkout https://github.com/cmaspi/extension/trunk/captchaDefeator  
 
 Go to your browser, switch on the developer mode in extensions, then add extension by selecting captchaDefeator
 
@@ -21,4 +21,5 @@ The first login page has a really bad captcha, the src link of the captcha which
 ### Next Goal
 The next goal of this extension is to bypass the captcha on the second page, this would require CNN, if you want to build one on your own, you can refer my [pre-processing functions](https://github.com/cmaspi/extension/blob/main/initial_phase/total.py)
 
-
+### Features
+You can also just now press enter after entering your credentials to login unlike without this extension where you would have to drag your cursor to click on "sign in"
