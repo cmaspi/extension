@@ -8,10 +8,6 @@
         "js":["captcha1.js"]    
         },
         {
-            "matches": ["file:///home/cmaspi/Desktop/jss/IITH-AIMS-LIVE%20Instance.html"],
-            "js": ["feedback.js"]
-        },
-        {
             "matches": ["https://aims.iith.ac.in/aims/fmCourseFb/courseFeedback/*"],
             "js": ["feedback.js"]
         }        
