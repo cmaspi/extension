@@ -1,4 +1,4 @@
-## Welcome to Aims captcha defeator
+## Welcome to Aims captcha defeator (and feedback filler)
 
 This extension will help you bypass the first captcha on the aims website, the next big version of this extension will include a text detection model to bypass the second captcha as well, but for now, it will only fill the first captcha for you.
 (Star this repository if you like it)
@@ -17,10 +17,10 @@ Now follow the tutorial for how to add this to you browser
 
 You can refer 
 ### 1. [Tutorial for brave](https://github.com/cmaspi/extension/blob/main/captchaDefeator/tutorials/brave_tutorial.pdf)
-### 2. Tutorial for firefox
-    1. Go to about:debugging#/runtime/this-firefox
-    2. Then click on Load Temporary Add-on
-    3. Then select manifest.json in the downloaded directory
+### ~~2. Tutorial for firefox~~
+**the support for firefox has been removed**        
+## Filling Feedback
+To fill the feedback, click on the extension in extension bar, then 
 
 
 ### How this extension works?
