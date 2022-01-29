@@ -20,7 +20,7 @@ You can refer
 ### ~~2. Tutorial for firefox~~
 **the support for firefox has been removed**        
 ## Filling Feedback
-To fill the feedback, click on the extension in extension bar, then 
+To fill the feedback, click on the extension in extension bar, then select from one of many categories and click fill
 
 
 ### How this extension works?
