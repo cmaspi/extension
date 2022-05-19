@@ -1,0 +1,20 @@
+{
+    "name": "AIMS captcha defeator",
+    "version": "1.0",
+    "manifest_version":3,
+    "content_scripts": [
+        {
+        "matches": ["https://aims.iith.ac.in/aims/"],
+        "js":["src/Captcha_direct.js"]    
+        },
+        {
+            "matches": ["https://aims.iith.ac.in/aims/fmCourseFb/courseFeedback/*"],
+            "js": ["src/feedback.js"]
+        }        
+    ],
+    
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "Select type"
+    }
+}
