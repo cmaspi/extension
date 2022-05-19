@@ -17,4 +17,7 @@ I'm a complete novice at Javascript, all my attempts of writing a content script
 
 1. not being able to import opencv.js in a content script.
 2. the captcha image on 2nd page of AIMS is accessible only once, that is when the browser loads it. So, either it must be taken from cache or a new captcha should be generated and retrieved directly (my thoughts).
+   
+-------
+A CNN model with 99.6% accuracy on this captcha dataset can be found [here](https://github.com/cmaspi/Defeating-AIMS-Captcha)
 
